@@ -93,7 +93,7 @@ def click(val):
 
 root = tkinter.Tk()
 
-root.title("Scientific Calculator")
+root.title("Calculator")
 root.geometry("680x486+100+100")
 
 root.config(bg="black")
